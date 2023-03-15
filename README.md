@@ -4,7 +4,7 @@ Nous sommes en 2077, le virus informatique TP-47 a réduit la terre a néant. Il
 
 ## Petit jeu en python pour la fin de Première
 
-Un petit jeu dans lequel vous incanez kerloc'h un professeur de NSI qui s'attaque vaillamment à un virus résultant du TP47 (pour le 4ème trimestre de ces élèves) menaçant le monde
+Un petit jeu dans lequel vous incanez kerloc'h un professeur de NSI qui s'attaque vaillamment à un virus résultant du TP47 (pour le 4ème trimestre de ces élèves) menaçant le monde  
 Les commandes sont les suivantes : 
 | touche | résultat |
 |:-:    |:-:    |
