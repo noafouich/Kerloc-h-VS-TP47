@@ -13,3 +13,10 @@ barre d'espace  |              sauter|
 touche directionnelle gauche |  aller à gauche|
 touche directionnelle droite |  aller à droite|
 f3                           |  afficher les statistiques du jeu (oui c'est une référence assumé à minecraft)|
+
+Il y a 4 difficultés possibles de facile à extrême  
+Bonne chance à vous
+
+## Remerciements
+Mya et capitaine nemo pour les dessins  
+M. Kerloc'h pour le personnage et les sons  
