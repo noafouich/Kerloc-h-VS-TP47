@@ -18,5 +18,6 @@ Il y a 4 difficultés possibles de facile à extrême
 Bonne chance à vous
 
 ## Remerciements
-Mya et capitaine nemo pour les dessins  
-M. Kerloc'h pour le personnage et les sons  
+Mya et capitaine nemo pour les dessins
+Yann Awbi pour l'aide sur le dev
+Le grand M. Kerloc'h pour le personnage et les sons  
